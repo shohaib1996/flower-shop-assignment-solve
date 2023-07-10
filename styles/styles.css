@@ -52,3 +52,62 @@
     font-size: 18px;
     margin-bottom: 30px;
 }
+
+/* feature flower styles */
+.feature-title {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    margin-top: 200px;
+}
+
+.feature-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    margin-top: 25px;
+    margin-bottom: 50px;
+}
+
+.feature-flower-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    margin: 0px 150px;
+
+}
+
+.feature-flower1 {
+    background-color: #A7216226;
+    width: 200px;
+    padding: 110px 65px 0px;
+    border-radius: 300px 300px 0px 0px;
+    margin: 10px;
+}
+
+.feature-flower2 {
+    background-color: #0597A026;
+    width: 200px;
+    padding: 110px 65px 85px;
+    border-radius: 300px 300px 0px 0px;
+    margin: 10px;
+
+}
+
+.feature-flower3 {
+    background-color: #477D1126;
+    width: 200px;
+    padding: 110px 65px 0px;
+    border-radius: 300px 300px 0px 0px;
+    margin: 10px;
+    height: 290px
+}
+
+.feature-flower-description {
+    color: #272727;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    text-decoration-line: underline;
+}
