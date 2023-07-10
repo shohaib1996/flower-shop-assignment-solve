@@ -219,3 +219,35 @@
     margin-right: 20px;
 
 }
+
+/* footer style */
+footer {
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.footer-title {
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: 130px;
+}
+
+span {
+    color: #E55473;
+}
+
+.footer-description {
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.copy-right {
+    font-size: 10px;
+    margin-bottom: 130px;
+}
