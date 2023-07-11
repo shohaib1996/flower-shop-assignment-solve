@@ -84,14 +84,16 @@
     padding: 110px 65px 0px;
     border-radius: 300px 300px 0px 0px;
     margin: 10px;
+    height: 290px;
 }
 
 .feature-flower2 {
     background-color: #0597A026;
     width: 200px;
-    padding: 110px 65px 85px;
+    padding: 110px 65px 0px;
     border-radius: 300px 300px 0px 0px;
     margin: 10px;
+    height: 290px;
 
 }
 
